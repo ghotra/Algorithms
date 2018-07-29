@@ -1,6 +1,6 @@
 package com.baljinder;
 
-public class SelectionSortIterative1 {
+public class SelectionSortIterative_noMinIndex {
     public static void main(String[] args) {
         int[] numberToSort = {4,11,2,5,1,7,2};
 

@@ -10,7 +10,7 @@ public class BubbleSortRecursive {
 
     }
 
-    public static int[] bubbleSort(int[] array, int arrayLength){
+    private static int[] bubbleSort(int[] array, int arrayLength){
         if(arrayLength == 1){
             return array;
         }
